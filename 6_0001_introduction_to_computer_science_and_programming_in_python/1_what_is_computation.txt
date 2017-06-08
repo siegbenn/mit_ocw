@@ -7,7 +7,7 @@
 	- Computers only know what you tell them.
 
 - Types of knowledge
-	- Declarative knowledge: statemants of fact. 
+	- Declarative knowledge: statements of fact. 
 	- Imperative knowledge: recipe or how to.
 
 - What is a computer program?
@@ -17,9 +17,9 @@
 	- Fixed program computers: calculator.
 	- Stored program computers: machine stores and executed instructions.
 
-- Basic machine architectue
+- Basic machine architecture
 	- Memory: contains data and sequence of instructions.
-	- Arithmietic logic unit: does primitive ops, gets/stores data from memory.
+	- Arithmetic logic unit: does primitive ops, gets/stores data from memory.
 	- Control unit: program counter.
 	- Input.
 	- Output.
@@ -29,7 +29,7 @@
 		- Arithmetic and logic.
 		- Simple tests.
 		- Moving data.
-	- Special program (intrepreter) executes each instruction in order.
+	- Special program (interpreter) executes each instruction in order.
 		- Use tests to change flow of control through sequence.
 		- Stop when done.
 
@@ -38,12 +38,12 @@
 		- Right: move head to right of current square.
 		- Left: move head to left of current square.
 		- Print: print a symbol on the current square.
-		- Scan: identify andy symbols on the current square.
-		- Erase: erase any sombols presented on the current square.
+		- Scan: identify and symbols on the current square.
+		- Erase: erase any symbols presented on the current square.
 		- Nothing/halt: do nothing.
 	- Modern programming languages have more convenient set of primitives.
 	- Can abstract methods to create new primitives.
-	- Anythin computable in one language is computable in another.
+	- Anything computable in one language is computable in another.
 
 - Aspects of languages
 	- Syntax error: the instruction does not work.
@@ -51,7 +51,7 @@
 
 - Python programs
 	- A program is a sequence of definitions and commands.
-		- Definitions: evaulated.
+		- Definitions: evaluated.
 		- Commands: executed by the Python interpreter in a shell.
 	- Commands (statements): instruct interpreter to do something.
 
